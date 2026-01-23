@@ -34,7 +34,7 @@ emails = [
         "category": "personal"
     },
     
-    # Work ememrr
+    # Work end
     {
         "text": "Please review the attached project report by EOD. Let me know if you have questions.",
         "category": "work"
